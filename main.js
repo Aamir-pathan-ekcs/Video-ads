@@ -26,7 +26,7 @@ fs.readFile(jsonFilePath, 'utf8', (err, data) => {
     $.getJSON(Ip, function (data) {
       var lat = data.location.latitude;
       var long = data.location.longitude;
-      var default_unit = 'imperial'; // 'metric' for Celsius, 'imperial' for Fahrenheit
+      var default_unit = 'imperial'; // 'metric' for Celsius, 'imperial' for Fahrenheit here
   
       var OPEN_WEATHER_MAP_URL = OPEN_WEATHER_MAP_API + '?lat=' + lat + '&lon=' + long + '&units=' + default_unit + '&appid=' + OPEN_WEATHER_MAP_API_KEY;
   
