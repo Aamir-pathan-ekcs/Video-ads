@@ -1,0 +1,180 @@
+{
+  "overlay": [
+    {
+      "themeId": "",
+      "audio": null,
+      "outputFormat": "video",
+      "title": "IT Breaking News Template",
+      "teamId": "",
+      "templateId": "17",
+      "createProject": true,
+      "export-settings": {
+        "fadeOutVideo": false
+      },
+      "validations": {
+        "textMaxLength": null
+      },
+      "scenes": [
+        {
+          "layoutId": "",
+          "multiplier": null,
+          "image": {
+            "url": "https://akm-img-a-in.tosshub.com/sites/infeed_videos/templates/17/video_templates/1666679207108_1.mp4",
+            "fullDuration": true,
+            "mute": false,
+            "loop": true
+          },
+          "elements": [
+            {
+              "url": "https://akm-img-a-in.tosshub.com/sites/infeed_videos/templates/17/video_templates/1666679207108_1.mp4",
+              "type": "lower-third",
+              "elementType": "video",
+              "styles": {
+                "fontcolor": "black",
+                "shadowcolor": "",
+                "shadowx": 2,
+                "shadowy": 2
+              }
+            },
+            {
+              "text": "Security beefed up outside Sisodia residence, AAP raises arrest fear ",
+              "type": "",
+              "styles": {
+               
+              },
+              "duration": 23.9,
+              "delay": 0,
+              "props": {
+                "enable": "gte(t,1.5)",
+                "x": "125",
+                "y": "233"
+              },
+              "specs": {
+                "fontdependency": [
+                  {
+                    "fontfile": "./public/fonts/FRADMCN.TTF"
+                  }
+                ],
+                "fontfile": "./public/fonts/Franklin Gothic Bold.ttf",
+                "fontfamily": "Franklin Gothic Demi Cond",
+                "fontstyle": null,
+                "fontweight": null,
+                "fontcolor": "black",
+                "shadowcolor": null,
+                "shadowx": null,
+                "shadowy": null,
+                "shadowblur": null,
+                "fontmaxsize": 35,
+                "fontminsize": 35,
+                "textareawidth": 1008,
+                "textareaheight": 45
+              }
+            },
+            {
+              "text": "Ahead of Dy CM CBI inquiry AAP claims leaders put under 'house arrest' ",
+              "type": "",
+              "styles": {
+               
+              },
+              "duration": 23.9,
+              "delay": 0,
+              "props": {
+                "enable": "gte(t,2)",
+                "x": "125",
+                "y": "344"
+              },
+              "specs": {
+                "fontdependency": [
+                  {
+                    "fontfile": "./public/fonts/FRADMCN.TTF"
+                  }
+                ],
+                "fontfile": "./public/fonts/Franklin Gothic Bold.ttf",
+                "fontfamily": "Franklin Gothic Demi Cond",
+                "fontstyle": null,
+                "fontweight": null,
+                "fontcolor": "black",
+                "shadowcolor": null,
+                "shadowx": null,
+                "shadowy": null,
+                "shadowblur": null,
+                "fontmaxsize": 35,
+                "fontminsize": 35,
+                "textareawidth": 1008,
+                "textareaheight": 45
+              }
+            },
+            {
+              "text": "G20 recognises risk attached, agrees to discuss IMF-FSB paper on crypto",
+              "type": "",
+              "styles": {
+               
+              },
+              "duration": 23.9,
+              "delay": 0,
+              "props": {
+                "enable": "gte(t,3)",
+                "x": "125",
+                "y": "455"
+              },
+              "specs": {
+                "fontdependency": [
+                  {
+                    "fontfile": "./public/fonts/FRADMCN.TTF"
+                  }
+                ],
+                "fontfile": "./public/fonts/Franklin Gothic Bold.ttf",
+                "fontfamily": "Franklin Gothic Demi Cond",
+                "fontstyle": null,
+                "fontweight": null,
+                "fontcolor": "black",
+                "shadowcolor": null,
+                "shadowx": null,
+                "shadowy": null,
+                "shadowblur": null,
+                "fontmaxsize": 35,
+                "fontminsize": 35,
+                "textareawidth": 1008,
+                "textareaheight": 45
+              }
+            },
+            {
+              "text": "Punjab: BSF troops shot down drone coming from Pak to Indian border",
+              "type": "",
+              "styles": {
+               
+              },
+              "duration": 23.9,
+              "delay": 0,
+              "props": {
+                "enable": "gte(t,4)",
+                "x": "125",
+                "y": "570"
+              },
+              "specs": {
+                "fontdependency": [
+                  {
+                    "fontfile": "./public/fonts/FRADMCN.TTF"
+                  }
+                ],
+                "fontfile": "./public/fonts/Franklin Gothic Bold.ttf",
+                "fontfamily": "Franklin Gothic Demi Cond",
+                "fontstyle": null,
+                "fontweight": null,
+                "fontcolor": "black",
+                "shadowcolor": null,
+                "shadowx": null,
+                "shadowy": null,
+                "shadowblur": null,
+                "fontmaxsize": 35,
+                "fontminsize": 35,
+                "textareawidth": 1008,
+                "textareaheight": 45
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
